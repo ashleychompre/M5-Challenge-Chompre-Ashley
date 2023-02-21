@@ -49,4 +49,3 @@ FROM customers
 WHERE phone
 LIKE '%(202)%'
 ORDER BY last_name, first_name;
-
